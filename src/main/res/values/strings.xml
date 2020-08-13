@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="back_form">Exit Form</string>
+    <string name="back_form_message">Do you want to exit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
